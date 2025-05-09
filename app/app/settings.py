@@ -118,7 +118,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
-MEDIA_ROOT = '/home/defaut/development/app/media/'
+MEDIA_ROOT = '/home/default/development/app/media/'
 FORCE_SCRIPT_NAME = '/default'
 USE_X_FORWARDED_HOST = True
 USE_X_FORWARDED_PORT = True
